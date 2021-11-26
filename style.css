@@ -1,0 +1,13 @@
+.nut{
+    background-color: chartreuse;
+    border: wheat;
+    border-radius: 50px;
+}
+.title{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.col p{
+    text-align: center;
+}
