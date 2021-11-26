@@ -1,0 +1,46 @@
+
+.bg-light{
+    background-color: red !important;
+}
+.row{
+    flex-wrap: nowrap !important;
+    --bs-gutter-x: none;
+}
+.navbar{
+    border-style: solid;
+}
+.navbar-brand{
+    font-weight: 900;
+    color: white !important;
+}
+.nav-item .nav-link{
+    color:white !important;
+}
+.containers{
+    background-color: red ;
+}
+.carousel-inner {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20%;
+    width: 70%;
+    display: block;
+    background: url("https://images.fpt.shop/unsafe/fit-in/filters:quality(80):fill(transparent)/fptshop.com.vn/Uploads/images/2015/Voucher/blackfriday%202021/title-desk.png") no-repeat;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    padding-top: 300px;
+    width: 27%;
+}
+.row .col{
+    border-style: solid;
+    background-color: white;
+    margin-top: 10px;
+}
+.col .thongtin{
+    list-style-type: none !important;
+}
+.containers .tieude{
+    color:white;
+    line-height: 46px;
+}
