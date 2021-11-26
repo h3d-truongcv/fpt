@@ -1,0 +1,19 @@
+.bg-light{
+    background-color: red !important;
+}
+.navbar{
+    border-style: solid;
+}
+.navbar-brand{
+    font-weight: 900;
+    color: white !important;
+}
+.nav-item .nav-link{
+    color:white !important;
+}
+.list{
+    list-style-type: none;
+}
+.col .list .title{
+    font-weight: 500;
+}
